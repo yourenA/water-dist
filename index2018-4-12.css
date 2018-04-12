@@ -5559,12 +5559,53 @@ a.ant-btn-sm {
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
+.bce_content___82OBN {
+  position: absolute;
+  top: 0;
+  left: 200px;
+  bottom: 0;
+  right: 0;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  min-width: 800px;
+}
 .header___1gJeH {
-  padding: 0 12px 0 0;
-  background: #fff;
-  -webkit-box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
-          box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
-  position: relative;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: auto;
+  left: 180px;
+  background: #FFF;
+  z-index: 4;
+  border-bottom: 1px solid #E8ECF0;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  padding: 0 !important;
+}
+.main_area___nhdni {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #E8ECF0;
+  margin: 0;
+  padding: 0;
+  clear: both;
+}
+.main_area___nhdni .main___A45tJ {
+  position: absolute;
+  top: 65px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  margin: 0;
+  padding: 0;
+  margin-top: 0 !important;
+  background-color: #E8ECF0;
 }
 .logo___2uo7K {
   height: 64px;
@@ -5654,14 +5695,11 @@ a.ant-btn-sm {
 .menu___eYqrv .ant-dropdown-menu-item {
   width: 160px;
 }
-.ant-layout {
-  overflow-x: hidden;
-}
 .sider___2u3fw {
   min-height: 100vh;
   -webkit-box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
           box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
-  position: relative;
+  position: fixed;
   z-index: 10;
   background-image: url('https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg');
 }
@@ -16673,7 +16711,7 @@ a.ant-notification-notice-close:focus {
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 .header___2lHyK {
-  min-width: 900px;
+  min-width: 1000px;
   padding: 0;
   top: 0;
   left: 0;
@@ -19842,7 +19880,7 @@ body {
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 body {
-  min-width: 900px;
+  min-width: 1000px;
 }
 .AsyncSpin {
   width: 100%;
