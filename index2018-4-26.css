@@ -19950,6 +19950,10 @@ li.ant-select-tree-treenode-disabled > .ant-select-tree-node-content-wrapper:hov
   width: 10px;
   height: 10px;
 }
+.error-analysis .ant-badge-status-dot {
+  width: 10px;
+  height: 10px;
+}
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
