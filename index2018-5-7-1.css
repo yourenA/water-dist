@@ -20383,6 +20383,9 @@ fieldset legend .anticon {
 .ant-progress-text {
   margin-left: 0 !important;
 }
+.ant-list .ant-row {
+  margin: 0 !important;
+}
 @media screen and (max-width: 992px) {
   .tableListForm___22TTk .ant-form-item {
     margin-right: 24px;
