@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-5-7-2.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-5-7-1.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-5-15.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-5-7-2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeviceManage.async.js" afterPath="$PROJECT_DIR$/DeviceManage.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IdentifyManage.async.js" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RuleManage.async.js" afterPath="$PROJECT_DIR$/RuleManage.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyManage.async.js" afterPath="$PROJECT_DIR$/StrategyManage.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UsergroupManage.async.js" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-5-7-1.css" afterPath="$PROJECT_DIR$/index2018-5-7-2.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-5-7-2.css" afterPath="$PROJECT_DIR$/index2018-5-15.css" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,18 +39,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="270">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2018-5-7-2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index2018-5-7-2.js">
+      <file leaf-file-name="index2018-5-15.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2018-5-15.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19252">
-              <caret line="0" column="118313" selection-start-line="0" selection-start-column="118313" selection-end-line="0" selection-end-column="118313" />
+            <state relative-caret-position="326">
+              <caret line="0" column="1422130" selection-start-line="0" selection-start-column="1422130" selection-end-line="0" selection-end-column="1422130" />
               <folding />
             </state>
           </provider>
@@ -82,6 +89,7 @@
         <option value="$PROJECT_DIR$/index2018-5-3-1.js" />
         <option value="$PROJECT_DIR$/index2018-5-7-1.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2018-5-15.js" />
       </list>
     </option>
   </component>
@@ -256,12 +264,13 @@
       <workItem from="1524723387093" duration="1304000" />
       <workItem from="1525225708173" duration="2825000" />
       <workItem from="1525312605707" duration="777000" />
-      <workItem from="1525674057466" duration="996000" />
+      <workItem from="1525674057466" duration="1586000" />
+      <workItem from="1526378491064" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29484000" />
+    <option name="totallyTimeSpent" value="30260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -303,20 +312,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2018-5-3-1.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index2018-5-7-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="118313" selection-start-line="0" selection-start-column="118313" selection-end-line="0" selection-end-column="118313" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2018-5-3-1.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -471,26 +489,27 @@
     <entry file="file://$PROJECT_DIR$/index2018-4-26.js" />
     <entry file="file://$PROJECT_DIR$/index2018-5-2-2.css" />
     <entry file="file://$PROJECT_DIR$/index2018-5-2-3.js" />
-    <entry file="file://$PROJECT_DIR$/index2018-5-3-1.js">
+    <entry file="file://$PROJECT_DIR$/index2018-5-3-1.js" />
+    <entry file="file://$PROJECT_DIR$/index2018-5-7-2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="0" column="1408687" selection-start-line="0" selection-start-column="1408687" selection-end-line="0" selection-end-column="1408687" />
+        <state relative-caret-position="19791">
+          <caret line="0" column="118313" selection-start-line="0" selection-start-column="118313" selection-end-line="0" selection-end-column="118313" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2018-5-7-2.js">
+    <entry file="file://$PROJECT_DIR$/index2018-5-15.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19252">
-          <caret line="0" column="118313" selection-start-line="0" selection-start-column="118313" selection-end-line="0" selection-end-column="118313" />
+        <state relative-caret-position="326">
+          <caret line="0" column="1422130" selection-start-line="0" selection-start-column="1422130" selection-end-line="0" selection-end-column="1422130" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="270">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
       </provider>
