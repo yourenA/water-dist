@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-5-29-1.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-5-25-1.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeviceManage.async.js" afterPath="$PROJECT_DIR$/DeviceManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IdentifyManage.async.js" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RuleManage.async.js" afterPath="$PROJECT_DIR$/RuleManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyManage.async.js" afterPath="$PROJECT_DIR$/StrategyManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UsergroupManage.async.js" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-5-25-1.css" afterPath="$PROJECT_DIR$/index2018-5-29-1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2018-5-29-1.js" afterPath="$PROJECT_DIR$/index2018-5-29-1.js" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/index2018-5-29-1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="0" column="1436268" selection-start-line="0" selection-start-column="1436268" selection-end-line="0" selection-end-column="1436268" />
+              <caret line="0" column="1436267" selection-start-line="0" selection-start-column="1436267" selection-end-line="0" selection-end-column="1436267" />
               <folding />
             </state>
           </provider>
@@ -279,12 +268,12 @@
       <workItem from="1526888446025" duration="775000" />
       <workItem from="1527146424098" duration="683000" />
       <workItem from="1527237512289" duration="96000" />
-      <workItem from="1527567718685" duration="100000" />
+      <workItem from="1527567718685" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34590000" />
+    <option name="totallyTimeSpent" value="34969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -481,7 +470,7 @@
     <entry file="file://$PROJECT_DIR$/index2018-5-29-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="0" column="1436268" selection-start-line="0" selection-start-column="1436268" selection-end-line="0" selection-end-column="1436268" />
+          <caret line="0" column="1436267" selection-start-line="0" selection-start-column="1436267" selection-end-line="0" selection-end-column="1436267" />
           <folding />
         </state>
       </provider>
