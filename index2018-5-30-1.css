@@ -20962,6 +20962,12 @@ fieldset legend .anticon {
 .ant-table-small .ant-table-tbody tr:nth-child(even) {
   background-color: #f9f9f9;
 }
+.no-interval .ant-table-small .ant-table-thead > tr.ant-table-row-hover > td,
+.no-interval .ant-table-small .ant-table-tbody > tr.ant-table-row-hover > td,
+.no-interval .ant-table-small .ant-table-thead > tr:hover > td,
+.no-interval .ant-table-small .ant-table-tbody > tr:hover > td {
+  background: none !important;
+}
 .popover .item {
   border-bottom: 1px solid #cccccc;
   padding: 5px;
