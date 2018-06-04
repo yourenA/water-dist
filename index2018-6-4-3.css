@@ -7663,12 +7663,10 @@ textarea.ant-input {
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
 .pageHeader___3WkSk {
   background: #fff;
-  padding: 16px 32px 0 16px;
+  padding: 12px;
   border-bottom: 1px solid #e8e8e8;
 }
 .pageHeader___3WkSk .title___OAqSf {
-  margin-bottom: 15px;
-  margin-top: 15px;
   font-size: 20px;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.85);
@@ -20799,8 +20797,8 @@ fieldset legend .anticon {
 .layout .sider .sider-title {
   font-size: 14px;
   color: rgba(0, 0, 0, 0.65);
-  height: 53px;
-  line-height: 53px;
+  height: 46px;
+  line-height: 46px;
   border-bottom: 1px solid #e8e8e8;
   padding-left: 12px;
   white-space: nowrap;
@@ -20948,8 +20946,9 @@ fieldset legend .anticon {
 }
 .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-body > table > .ant-table-tbody > tr > td,
 .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
-.ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td {
-  padding: 6px !important;
+.ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.ant-table-small > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td {
+  padding: 7px !important;
 }
 .popover .item {
   border-bottom: 1px solid #cccccc;
