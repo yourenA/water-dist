@@ -16217,6 +16217,15 @@ textarea.ant-time-picker-input {
   padding: 110px 0 144px 0;
   position: relative;
 }
+.container___16mH3 .box___2gMTe {
+  margin: 0 auto;
+  background: #fff;
+  padding: 35px 0;
+  width: 500px;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
+}
 .top___1Gnr4 {
   text-align: center;
 }
@@ -16841,6 +16850,11 @@ a.ant-notification-notice-close:focus {
       -ms-flex-pack: center;
           justify-content: center;
   color: #ffffff;
+  -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
 }
 .main___2lNyy .topItem___3ghLs .count___1dnD5 {
   font-weight: bold;
@@ -16855,7 +16869,7 @@ a.ant-notification-notice-close:focus {
   content: '';
   position: absolute;
   width: 100px;
-  height: 7px;
+  height: 8px;
   border-bottom: 1px dotted #000;
   background: #ffffff;
   right: -25px;
