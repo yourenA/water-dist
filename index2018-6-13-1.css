@@ -20809,6 +20809,7 @@ fieldset legend .anticon {
   background: #ffffff !important;
   height: 100%;
   border-right: 2px solid #ccc;
+  width: 210px;
 }
 .layout .sider .sider-title {
   font-size: 14px;
