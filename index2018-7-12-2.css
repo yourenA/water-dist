@@ -19398,6 +19398,13 @@ textarea.ant-input-number {
 .ant-cascader-menu-item .ant-cascader-menu-item-keyword {
   color: #f5222d;
 }
+.concentrator-cascader {
+  width: 90% !important;
+  margin-right: 10px;
+}
+.concentrator-cascader-del-btn {
+  cursor: pointer;
+}
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
