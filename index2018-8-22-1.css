@@ -21422,8 +21422,7 @@ fieldset legend .anticon {
   height: 375px;
 }
 .mapData {
-  width: 100%;
-  height: 500px;
+  height: calc(100vh - 114px);
 }
 .concentrator-num,
 .meter-num,
