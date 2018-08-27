@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-8-22-1.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-8-21-3.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-8-27-1.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-8-22-1.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" />
@@ -13,7 +13,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyManage.async.js" afterPath="$PROJECT_DIR$/StrategyManage.async.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UsergroupManage.async.js" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-8-21-3.css" afterPath="$PROJECT_DIR$/index2018-8-22-1.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-8-22-1.css" afterPath="$PROJECT_DIR$/index2018-8-27-1.css" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2018-8-22-1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2018-8-22-1.js">
+      <file leaf-file-name="index2018-8-27-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index2018-8-27-1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="607">
-              <caret line="0" column="2288136" selection-start-line="0" selection-start-column="2288123" selection-end-line="0" selection-end-column="2288136" />
+              <caret line="0" column="2286453" selection-start-line="0" selection-start-column="2286440" selection-end-line="0" selection-end-column="2286453" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index2018-6-8-1.js" />
         <option value="$PROJECT_DIR$/index2018-6-8-2.js" />
         <option value="$PROJECT_DIR$/index2018-6-8-3.js" />
         <option value="$PROJECT_DIR$/index2018-6-8-4.js" />
@@ -120,8 +119,9 @@
         <option value="$PROJECT_DIR$/index2018-8-21-1.js" />
         <option value="$PROJECT_DIR$/index2018-8-21-2.js" />
         <option value="$PROJECT_DIR$/index2018-8-21-3.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2018-8-22-1.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2018-8-27-1.js" />
       </list>
     </option>
   </component>
@@ -162,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,6 +196,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -348,12 +348,13 @@
       <workItem from="1534756107871" duration="1342000" />
       <workItem from="1534837862341" duration="568000" />
       <workItem from="1534842173810" duration="776000" />
-      <workItem from="1534909553748" duration="149000" />
+      <workItem from="1534909553748" duration="738000" />
+      <workItem from="1535361178490" duration="142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94174000" />
+    <option name="totallyTimeSpent" value="94905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -393,7 +394,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2018-6-7-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-2.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-3.js" />
@@ -453,10 +453,11 @@
     <entry file="file://$PROJECT_DIR$/index2018-8-20-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-2.js" />
-    <entry file="file://$PROJECT_DIR$/index2018-8-21-3.js">
+    <entry file="file://$PROJECT_DIR$/index2018-8-21-3.js" />
+    <entry file="file://$PROJECT_DIR$/index2018-8-22-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
-          <caret line="0" column="2276585" selection-start-line="0" selection-start-column="2276572" selection-end-line="0" selection-end-column="2276585" />
+          <caret line="0" column="2288136" selection-start-line="0" selection-start-column="2288123" selection-end-line="0" selection-end-column="2288136" />
           <folding />
         </state>
       </provider>
@@ -469,10 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2018-8-22-1.js">
+    <entry file="file://$PROJECT_DIR$/index2018-8-27-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
-          <caret line="0" column="2288136" selection-start-line="0" selection-start-column="2288123" selection-end-line="0" selection-end-column="2288136" />
+          <caret line="0" column="2286453" selection-start-line="0" selection-start-column="2286440" selection-end-line="0" selection-end-column="2286453" />
           <folding />
         </state>
       </provider>
