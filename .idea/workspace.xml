@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-8-27-1.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-8-22-1.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-8-28-1.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-8-27-1.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeviceManage.async.js" afterPath="$PROJECT_DIR$/DeviceManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IdentifyManage.async.js" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RuleManage.async.js" afterPath="$PROJECT_DIR$/RuleManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyManage.async.js" afterPath="$PROJECT_DIR$/StrategyManage.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UsergroupManage.async.js" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-8-22-1.css" afterPath="$PROJECT_DIR$/index2018-8-27-1.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-8-27-1.css" afterPath="$PROJECT_DIR$/index2018-8-28-1.css" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,17 +33,17 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2018-8-27-1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2018-8-27-1.js">
+      <file leaf-file-name="index2018-8-28-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index2018-8-28-1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="0" column="2286453" selection-start-line="0" selection-start-column="2286440" selection-end-line="0" selection-end-column="2286453" />
+            <state relative-caret-position="548">
+              <caret line="0" column="2287604" selection-start-line="0" selection-start-column="2287591" selection-end-line="0" selection-end-column="2287604" />
               <folding />
             </state>
           </provider>
@@ -71,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index2018-6-8-2.js" />
         <option value="$PROJECT_DIR$/index2018-6-8-3.js" />
         <option value="$PROJECT_DIR$/index2018-6-8-4.js" />
         <option value="$PROJECT_DIR$/index2018-6-10-1.js" />
@@ -120,8 +112,9 @@
         <option value="$PROJECT_DIR$/index2018-8-21-2.js" />
         <option value="$PROJECT_DIR$/index2018-8-21-3.js" />
         <option value="$PROJECT_DIR$/index2018-8-22-1.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2018-8-27-1.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2018-8-28-1.js" />
       </list>
     </option>
   </component>
@@ -350,15 +343,17 @@
       <workItem from="1534842173810" duration="776000" />
       <workItem from="1534909553748" duration="738000" />
       <workItem from="1535361178490" duration="142000" />
+      <workItem from="1535425461337" duration="42000" />
+      <workItem from="1535425813211" duration="82000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94905000" />
+    <option name="totallyTimeSpent" value="95029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1399788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -394,7 +389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2018-6-8-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-2.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-3.js" />
     <entry file="file://$PROJECT_DIR$/index2018-6-8-4.js" />
@@ -454,26 +448,20 @@
     <entry file="file://$PROJECT_DIR$/index2018-8-21-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-2.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-3.js" />
-    <entry file="file://$PROJECT_DIR$/index2018-8-22-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="0" column="2288136" selection-start-line="0" selection-start-column="2288123" selection-end-line="0" selection-end-column="2288136" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index2018-8-22-1.js" />
+    <entry file="file://$PROJECT_DIR$/index2018-8-27-1.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2018-8-27-1.js">
+    <entry file="file://$PROJECT_DIR$/index2018-8-28-1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="0" column="2286453" selection-start-line="0" selection-start-column="2286440" selection-end-line="0" selection-end-column="2286453" />
+        <state relative-caret-position="548">
+          <caret line="0" column="2287604" selection-start-line="0" selection-start-column="2287591" selection-end-line="0" selection-end-column="2287604" />
           <folding />
         </state>
       </provider>
