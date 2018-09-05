@@ -21433,22 +21433,34 @@ fieldset legend .anticon {
   height: 400px;
   position: relative;
 }
+.table-content {
+  margin-top: 10px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+.separate {
+  height: 10px;
+}
 .custom-table {
   border: 1px solid #ddd;
   width: 100%;
   max-width: 100%;
+  margin-bottom: 10px;
 }
 .custom-table thead {
   font-weight: bold;
-  background: #f0f0f0;
+  background: #d1e9ff;
 }
 .custom-table tbody tr:nth-of-type(even) {
   background: #f9f9f9;
 }
-.custom-table td {
-  padding: 8px;
-  overflow: hidden;
-  border: 1px solid #ddd;
+.custom-table tbody tr td:first-child {
+  text-align: right;
+}
+.custom-table td,
+.custom-table th {
+  padding: 4px 6px;
+  border: 1px solid #999;
 }
 .ant-table-small .error {
   color: #f5222d;
