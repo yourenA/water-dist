@@ -21636,13 +21636,21 @@ fieldset legend .anticon {
   border-left: 1px solid #cccccc;
   border-top: 1px solid #cccccc;
 }
-.realData .meter-table th,
-.realData .meter-table td {
-  padding: 5px !important;
+.realData .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-body > table > .ant-table-tbody > tr > td,
+.realData .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.realData .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.realData .ant-table-small > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td,
+.realData .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-header > table > .ant-table-thead > tr > th,
+.realData .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-header > table > .ant-table-thead > tr > th,
+.realData .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-header > table > .ant-table-thead > tr > th {
+  padding: 3px !important;
   font-size: 12px;
 }
-.realData .ant-table-small > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td {
-  padding: 5px !important;
+.screen-lg .realData {
+  width: 500px;
+}
+.screen-xl .realData {
+  width: 550px;
 }
 .ant-modal .ant-form-item {
   margin-bottom: 12px !important;
