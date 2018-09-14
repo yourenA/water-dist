@@ -21439,11 +21439,17 @@ fieldset legend .anticon {
 }
 .table-content {
   margin-top: 10px;
-  max-height: 400px;
+  max-height: 500px;
   overflow-y: auto;
 }
 .separate {
   height: 10px;
+}
+.custom-table-error {
+  background: #ffb9c5;
+}
+.custom-table-error tr:nth-of-type(even) {
+  background: #ffb9c5 !important;
 }
 .custom-table {
   border: 1px solid #ddd;
