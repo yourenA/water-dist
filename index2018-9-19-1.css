@@ -21409,9 +21409,14 @@ fieldset legend .anticon {
 .last-30days-water-consumption,
 .last-12months-water-consumption,
 .member-analysis,
-.member-rate-analysis {
+.member-rate-analysis,
+.concentratorMap {
   width: 100%;
   height: 400px;
+}
+.concentratorMap {
+  width: 100%;
+  height: 500px;
 }
 .PressureLineChart {
   width: 100%;
