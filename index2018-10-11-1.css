@@ -7855,6 +7855,14 @@ textarea.ant-input {
 .content___1elKt .ant-card-body {
   padding: 16px;
 }
+.content___1elKt .screen-xs .ant-card-wider-padding .ant-card-body,
+.content___1elKt .screen-xs .ant-card-body {
+  padding: 0 !important;
+}
+.screen-xs .ant-card-wider-padding .ant-card-body,
+.screen-xs .ant-card-body {
+  padding: 0 !important;
+}
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors */
@@ -21341,6 +21349,16 @@ body {
 .content .tableListForm .ant-form-item {
   margin-bottom: 7px !important;
 }
+.screen-sm .content .tableListForm .ant-form-item,
+.screen-xs .content .tableListForm .ant-form-item {
+  margin-bottom: 3px !important;
+}
+.screen-sm .content .tableListForm .ant-form-item:not(.openOperate) > .ant-form-item-control-wrapper,
+.screen-xs .content .tableListForm .ant-form-item:not(.openOperate) > .ant-form-item-control-wrapper,
+.screen-sm .content .tableListForm .ant-form-item:not(.openOperate) > .ant-form-item-label,
+.screen-xs .content .tableListForm .ant-form-item:not(.openOperate) > .ant-form-item-label {
+  display: block !important;
+}
 .submitButtons {
   display: block;
   white-space: nowrap;
@@ -21547,6 +21565,9 @@ fieldset legend .anticon {
 .ant-table-fixed-right .react-resizable-handle {
   display: none;
 }
+.screen-xs .showToggle {
+  opacity: 0.2 !important;
+}
 .layout {
   height: calc(100vh - 68px);
   overflow: hidden;
@@ -21591,25 +21612,8 @@ fieldset legend .anticon {
   font-size: 20px;
   line-height: 45px;
 }
-.layout .sider .showToggle {
-  -webkit-transition: width 0.3s;
-  -o-transition: width 0.3s;
-  transition: width 0.3s;
-  -webkit-transition-duration: 0.3s;
-       -o-transition-duration: 0.3s;
-          transition-duration: 0.3s;
-  cursor: pointer;
-  position: absolute;
-  bottom: 0;
-  left: 100%;
-  height: 45px;
-  width: 45px;
-  background: #002140;
-  text-align: center;
-  color: white;
-  font-size: 20px;
-  line-height: 45px;
-  z-index: 999;
+.layout .sider .screen-xs .showToggle {
+  opacity: 0.5 !important;
 }
 .layout .sider .sider-content {
   position: relative;
@@ -21630,13 +21634,35 @@ fieldset legend .anticon {
 .layout .content .content-container {
   margin: 24px 24px 0;
 }
+.showToggle {
+  -webkit-transition: width 0.3s;
+  -o-transition: width 0.3s;
+  transition: width 0.3s;
+  -webkit-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  height: 45px;
+  width: 45px;
+  background: #002140;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  line-height: 45px;
+  z-index: 999;
+}
 .realData {
   position: fixed;
   width: 420px;
   height: 250px;
   right: 0;
   bottom: 0;
-  overflow-y: auto;
+  -webkit-transition: right ease 0.3s;
+  -o-transition: right ease 0.3s;
+  transition: right ease 0.3s;
   background: #ffffff;
   border-left: 1px solid #cccccc;
   border-top: 1px solid #cccccc;
@@ -21651,11 +21677,24 @@ fieldset legend .anticon {
   padding: 3px !important;
   font-size: 12px;
 }
+.realData .showToggle {
+  left: -45px;
+  bottom: 0;
+}
+.realData-collapsed {
+  right: -420px;
+}
 .screen-lg .realData {
   width: 500px;
 }
+.screen-lg .realData-collapsed {
+  right: -500px;
+}
 .screen-xl .realData {
   width: 550px;
+}
+.screen-xl .realData-collapsed {
+  right: -550px;
 }
 .ant-modal .ant-form-item {
   margin-bottom: 12px !important;
@@ -21763,6 +21802,22 @@ fieldset legend .anticon {
 .screen-md .ant-menu-item,
 .screen-md .ant-menu-submenu-title {
   padding: 0 3px !important;
+}
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-body > table > .ant-table-tbody > tr > td,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-body > table > .ant-table-tbody > tr > td,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-body-outer > .ant-table-body-inner > table > .ant-table-tbody > tr > td,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-header > table > .ant-table-thead > tr > th,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-scroll > .ant-table-header > table > .ant-table-thead > tr > th,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-header > table > .ant-table-thead > tr > th,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-fixed-right > .ant-table-header > table > .ant-table-thead > tr > th,
+.screen-sm .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-header > table > .ant-table-thead > tr > th,
+.screen-xs .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-header > table > .ant-table-thead > tr > th {
+  padding: 4px !important;
 }
 @media screen and (max-width: 992px) {
   .tableListForm___22TTk .ant-form-item {
