@@ -21469,29 +21469,40 @@ fieldset legend .anticon {
   background: #ffb9c5 !important;
 }
 .custom-table {
-  border: 1px solid #ddd;
+  border: 1px solid #e9e9e9;
   width: 100%;
   max-width: 100%;
   margin-bottom: 10px;
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 .custom-table thead {
   font-weight: bold;
-  background: #d1e9ff;
+  background: #F0F0F0;
 }
 .custom-table thead .table-header-1 {
   width: 120px;
 }
-.custom-table tbody tr:nth-of-type(even) {
+.custom-table tbody tr {
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.custom-table tbody tr:nth-of-type(odd) {
   background: #f9f9f9;
 }
 .custom-table tbody tr td:first-child {
   text-align: right;
 }
+.custom-table tbody tr:hover {
+  background: #e6f7ff;
+}
 .custom-table td,
 .custom-table th {
-  padding: 4px 6px;
-  border: 1px solid #999;
+  padding: 7px;
+  border-right: 1px solid #e9e9e9;
+  border-bottom: 1px solid #e8e8e8;
   white-space: nowrap;
+  width: 50%;
 }
 .ant-table-small .error {
   color: #f5222d;
