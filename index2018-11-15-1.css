@@ -21584,7 +21584,7 @@ fieldset legend .anticon {
   overflow: hidden;
 }
 .layout .sider {
-  background: url(water/static/sider-water.799df5c9.png) no-repeat bottom;
+  background: url(/water/static/sider-water.799df5c9.png) no-repeat bottom;
   background-size: 100%;
   background-color: #ffffff !important;
   height: 100%;
