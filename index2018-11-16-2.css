@@ -16765,26 +16765,41 @@ textarea.ant-time-picker-input {
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
 .container___16mH3 {
   background: #f0f2f5;
-  background-image: url('https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg');
+  background-image: url(/water/static/login-bg.77e15f8b.png);
   width: 100%;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100%;
-  padding: 110px 0 144px 0;
+  background-size: 100% 100%;
+  padding: 175px 0 144px 0;
   position: relative;
 }
 .container___16mH3 .box___2gMTe {
-  margin: 0 auto;
-  background: #fff;
-  padding: 35px 0;
+  position: relative;
   width: 100%;
-  max-width: 500px;
   border-radius: 2px;
   -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
           box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3);
+  height: auto;
 }
-.top___1Gnr4 {
+.container___16mH3 .box___2gMTe .login_mask___X-Qmd {
+  background: #ffffff;
+  height: 100%;
+  opacity: .6;
+  -webkit-box-shadow: 0 0 8px 4px #333;
+          box-shadow: 0 0 8px 4px #333;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.container___16mH3 .box___2gMTe .login_content___WikC_ {
+  position: relative;
+  margin: 0 auto;
+  max-width: 500px;
+  background: #fff;
+  padding: 60px 0;
+}
+.container___16mH3 .box___2gMTe .top___1Gnr4 {
   text-align: center;
   margin-bottom: 30px;
 }
@@ -17348,7 +17363,7 @@ a.ant-notification-notice-close:focus {
   right: 0;
   position: fixed;
   z-index: 999;
-  background: #001529;
+  background-color: #001529;
 }
 .header___2lHyK .logo {
   float: left;
