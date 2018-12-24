@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2018-12-21-3.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2018-12-21-2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-12-21-3.js" afterPath="$PROJECT_DIR$/index2018-12-24-1.js" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,17 +32,17 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2018-12-21-3.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2018-12-21-3.js">
+      <file leaf-file-name="index2018-12-24-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index2018-12-24-1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="0" column="3054824" selection-start-line="0" selection-start-column="3054811" selection-end-line="0" selection-end-column="3054824" />
+            <state relative-caret-position="607">
+              <caret line="0" column="3054830" selection-start-line="0" selection-start-column="3054817" selection-end-line="0" selection-end-column="3054830" />
               <folding />
             </state>
           </provider>
@@ -62,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index2018-8-7-2.js" />
         <option value="$PROJECT_DIR$/index2018-8-8-1.js" />
         <option value="$PROJECT_DIR$/index2018-8-8-2.js" />
         <option value="$PROJECT_DIR$/index2018-8-8-3.js" />
@@ -111,8 +111,9 @@
         <option value="$PROJECT_DIR$/index2018-12-21-1.css" />
         <option value="$PROJECT_DIR$/index2018-12-21-1.js" />
         <option value="$PROJECT_DIR$/index2018-12-21-2.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2018-12-21-3.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2018-12-24-1.js" />
       </list>
     </option>
   </component>
@@ -153,8 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,6 +188,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,12 +384,13 @@
       <workItem from="1545358929502" duration="885000" />
       <workItem from="1545360530871" duration="141000" />
       <workItem from="1545361286164" duration="16000" />
-      <workItem from="1545361310421" duration="830000" />
+      <workItem from="1545361310421" duration="1419000" />
+      <workItem from="1545633831837" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119915000" />
+    <option name="totallyTimeSpent" value="120599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -428,7 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2018-8-9-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-20-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-8-21-2.js" />
@@ -489,18 +490,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index2018-12-21-3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="637">
+          <caret line="0" column="3054824" selection-start-line="0" selection-start-column="3054811" selection-end-line="0" selection-end-column="3054824" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2018-12-21-3.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="0" column="3054824" selection-start-line="0" selection-start-column="3054811" selection-end-line="0" selection-end-column="3054824" />
+        <state relative-caret-position="594">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2018-12-24-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="0" column="3054830" selection-start-line="0" selection-start-column="3054817" selection-end-line="0" selection-end-column="3054830" />
           <folding />
         </state>
       </provider>
