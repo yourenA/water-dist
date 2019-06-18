@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2019-6-4-1.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2019-5-23-2.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2019-6-18-1.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2019-6-4-1.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index2018-05-20-1.css" afterPath="$PROJECT_DIR$/index2019-6-4-1.css" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2019-6-18-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index2019-6-18-1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="0" column="3388010" selection-start-line="0" selection-start-column="3387997" selection-end-line="0" selection-end-column="3388010" />
               <folding />
             </state>
           </provider>
@@ -54,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index2018-9-19-1.js" />
         <option value="$PROJECT_DIR$/index2018-9-21-1.js" />
         <option value="$PROJECT_DIR$/index2018-9-25-1.js" />
         <option value="$PROJECT_DIR$/index2018-10-11-1.js" />
@@ -102,9 +110,10 @@
         <option value="$PROJECT_DIR$/index2019-5-21-1.js" />
         <option value="$PROJECT_DIR$/index2019-5-23-1.js" />
         <option value="$PROJECT_DIR$/index2019-5-23-2.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2019-6-4-1.css" />
         <option value="$PROJECT_DIR$/index2019-6-4-1.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2019-6-18-1.js" />
       </list>
     </option>
   </component>
@@ -161,20 +170,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="water-dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="water-dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="water-dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,12 +392,13 @@
       <workItem from="1558423756448" duration="773000" />
       <workItem from="1558579759383" duration="126000" />
       <workItem from="1558580641371" duration="901000" />
-      <workItem from="1559635605567" duration="200000" />
+      <workItem from="1559635605567" duration="293000" />
+      <workItem from="1560828847125" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130124000" />
+    <option name="totallyTimeSpent" value="130296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -442,7 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2018-9-25-1.css" />
     <entry file="file://$PROJECT_DIR$/index2018-9-25-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-10-11-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-10-12-1.js" />
@@ -500,29 +495,14 @@
     <entry file="file://$PROJECT_DIR$/index2019-5-8-1.css" />
     <entry file="file://$PROJECT_DIR$/index2019-5-8-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-05-20-1.js" />
-    <entry file="file://$PROJECT_DIR$/index2018-05-20-1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593082">
-          <caret line="21966" column="37" selection-start-line="21966" selection-start-column="37" selection-end-line="21966" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index2018-05-20-1.css" />
     <entry file="file://$PROJECT_DIR$/index2019-5-21-1.js" />
     <entry file="file://$PROJECT_DIR$/index2019-5-23-1.js" />
-    <entry file="file://$PROJECT_DIR$/index2019-5-23-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559224">
-          <caret line="0" column="3383207" selection-start-line="0" selection-start-column="3383207" selection-end-line="0" selection-end-column="3383207" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index2019-5-23-2.js" />
     <entry file="file://$PROJECT_DIR$/index2019-6-4-1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="19670" column="39" selection-start-line="19670" selection-start-column="32" selection-end-line="19670" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,14 +510,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="0" column="3387526" selection-start-line="0" selection-start-column="3387513" selection-end-line="0" selection-end-column="3387526" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2019-6-18-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="0" column="3388010" selection-start-line="0" selection-start-column="3387997" selection-end-line="0" selection-end-column="3388010" />
           <folding />
         </state>
       </provider>
