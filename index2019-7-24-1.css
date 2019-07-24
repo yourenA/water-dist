@@ -16219,6 +16219,11 @@ textarea.ant-time-picker-input {
 .header___2lHyK .logo .logo-up {
   font-size: 24px;
 }
+@media screen and (max-width: 480px) {
+  .header___2lHyK .logo .logo-up {
+    font-size: 20px;
+  }
+}
 .header___2lHyK .logo .logo-down {
   font-size: 16px;
 }
@@ -21545,6 +21550,45 @@ fieldset legend .anticon {
   border-bottom: 1px solid #e8e8e8;
   word-wrap: break-word;
 }
+.ant-tree.ant-tree-show-line.hide-file-icon li span.ant-tree-switcher-noop {
+  background: transparent;
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li:before {
+  content: " ";
+  width: 1px;
+  border-left: 1px solid #9a9a9a;
+  height: 100%;
+  position: absolute;
+  left: 12px;
+  top: 0;
+  margin: 0;
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li:first-child:before {
+  top: 6px;
+  height: calc(94%);
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li:last-child:before {
+  height: 16px;
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li:first-child:last-child:before {
+  height: 10px;
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li .ant-tree-switcher-noop > i {
+  visibility: hidden;
+}
+.ant-tree.ant-tree-show-line.hide-file-icon li .ant-tree-switcher-noop:after {
+  content: " ";
+  height: 1px;
+  border-bottom: 1px solid #9a9a9a;
+  width: 10px;
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  margin: 0;
+}
+.ant-tree.ant-tree-show-line li span.ant-tree-switcher {
+  background-color: #f1f1f1 ;
+}
 .ant-table-small .error {
   color: #f5222d;
 }
@@ -21638,7 +21682,7 @@ fieldset legend .anticon {
 .layout .sider {
   background: url(/water/static/sider-water.799df5c9.png) no-repeat bottom;
   background-size: 100%;
-  background-color: #ffffff !important;
+  background-color: #f1f1f1 !important;
   height: 100%;
   border-right: 2px solid #ccc;
   width: 210px;
