@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2019-8-1-2.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2019-8-1-1.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2019-8-1-2.js" afterPath="$PROJECT_DIR$/index2018-8-1-3.js" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
               <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index2019-8-1-2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2019-8-1-2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="0" column="3398149" selection-start-line="0" selection-start-column="3398136" selection-end-line="0" selection-end-column="3398149" />
               <folding />
             </state>
           </provider>
@@ -63,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index2018-10-29-1.js" />
         <option value="$PROJECT_DIR$/index2018-10-30-1.js" />
         <option value="$PROJECT_DIR$/index2018-11-1-1.js" />
         <option value="$PROJECT_DIR$/index2018-11-2-1.js" />
@@ -112,8 +100,9 @@
         <option value="$PROJECT_DIR$/index2019-7-29-1.js" />
         <option value="$PROJECT_DIR$/index2019-8-1-1.css" />
         <option value="$PROJECT_DIR$/index2019-8-1-1.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index2019-8-1-2.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2018-8-1-3.js" />
       </list>
     </option>
   </component>
@@ -154,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,8 +179,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,16 +401,17 @@
       <workItem from="1563958773592" duration="742000" />
       <workItem from="1564390463862" duration="661000" />
       <workItem from="1564639847337" duration="1558000" />
-      <workItem from="1564643857493" duration="94000" />
+      <workItem from="1564643857493" duration="241000" />
+      <workItem from="1564648656743" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134062000" />
+    <option name="totallyTimeSpent" value="134358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -457,7 +447,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2018-10-29-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-10-30-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-11-1-1.js" />
     <entry file="file://$PROJECT_DIR$/index2018-11-2-1.js" />
@@ -519,10 +508,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2019-8-1-1.js">
+    <entry file="file://$PROJECT_DIR$/index2019-8-1-1.js" />
+    <entry file="file://$PROJECT_DIR$/index2019-8-1-2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="0" column="3398115" selection-start-line="0" selection-start-column="3398102" selection-end-line="0" selection-end-column="3398115" />
+        <state relative-caret-position="636">
+          <caret line="0" column="3398149" selection-start-line="0" selection-start-column="3398136" selection-end-line="0" selection-end-column="3398149" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -534,10 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2019-8-1-2.js">
+    <entry file="file://$PROJECT_DIR$/index2018-8-1-3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="0" column="3398149" selection-start-line="0" selection-start-column="3398136" selection-end-line="0" selection-end-column="3398149" />
+        <state relative-caret-position="89">
+          <caret line="0" column="3395333" selection-start-line="0" selection-start-column="3395333" selection-end-line="0" selection-end-column="3395333" />
           <folding />
         </state>
       </provider>
