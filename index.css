@@ -19673,7 +19673,7 @@ textarea.ant-input-number {
   .pswp--svg .pswp__button,
   .pswp--svg .pswp__button--arrow--left:before,
   .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(/water/static/default-skin.b257fa9c.svg); }
+    background-image: url(/static/default-skin.b257fa9c.svg); }
   .pswp--svg .pswp__button--arrow--left,
   .pswp--svg .pswp__button--arrow--right {
     background: none; } }
@@ -21348,6 +21348,9 @@ body {
       -webkit-box-shadow: inset 0 0 6px rgba(23, 23, 23, 0.3);
       background-color: rgba(0,0,0,0.2); }*/
 }
+body {
+  min-width: 1000px;
+}
 .btn-cyan {
   background-color: #13c2c2 !important;
   border-color: #13c2c2 !important;
@@ -21678,7 +21681,7 @@ fieldset legend .anticon {
   overflow: hidden;
 }
 .layout .sider {
-  background: url(/water/static/sider-water.799df5c9.png) no-repeat bottom;
+  background: url(/static/sider-water.799df5c9.png) no-repeat bottom;
   background-size: 100%;
   background-color: #f1f1f1 !important;
   height: 100%;
@@ -21989,7 +21992,7 @@ fieldset legend .anticon {
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
 .container___16mH3 {
   background: #f0f2f5;
-  background-image: url(/water/static/login-bg.77e15f8b.png);
+  background-image: url(/static/login-bg.77e15f8b.png);
   width: 100%;
   min-height: 100vh;
   background-repeat: no-repeat;
