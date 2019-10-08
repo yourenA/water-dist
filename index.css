@@ -21901,6 +21901,35 @@ fieldset legend .anticon {
 .ant-table-small > .ant-table-content > .ant-table-fixed-left > .ant-table-header > table > .ant-table-thead > tr > th {
   padding: 6px !important;
 }
+.ant-table-small .ant-table-thead > tr > th[class^=vendor-meter],
+td[class^=vendor-meter] {
+  border: 1px solid #000c17 !important;
+  color: #2e2e2e !important;
+  padding: 4px !important;
+}
+.ant-table-small .ant-table-thead > tr > th[class^=vendor-meter1],
+td[class^=vendor-meter1] {
+  background: #ededed !important;
+}
+.ant-table-small .ant-table-thead > tr > th[class^=vendor-meter2],
+td[class^=vendor-meter2] {
+  background: #e2efda !important;
+}
+.ant-table-small .ant-table-thead > tr > th[class^=vendor-meter3],
+td[class^=vendor-meter3] {
+  background: #ddebf7 !important;
+}
+.ant-table-small .ant-table-thead > tr > th[class^=vendor-meter4],
+td[class^=vendor-meter4] {
+  background: #fce4d6 !important;
+}
+.ant-table-small .ant-table-thead > tr > th.white-bg,
+td.white-bg {
+  border: 1px solid #000c17 !important;
+  background: #fff !important;
+  color: #2e2e2e !important;
+  padding: 4px !important;
+}
 .popover .item {
   border-bottom: 1px solid #cccccc;
   padding: 5px;
