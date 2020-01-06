@@ -6289,6 +6289,8 @@ a.ant-btn-sm {
   -o-transition: all .2s;
   transition: all .2s;
   min-width: 800px;
+  background: #E8ECF0;
+  overflow: auto;
 }
 .header___1gJeH {
   position: fixed;
@@ -7853,7 +7855,7 @@ textarea.ant-input {
 }
 .content___1elKt .ant-card-wider-padding .ant-card-body,
 .content___1elKt .ant-card-body {
-  padding: 6px 16px;
+  padding: 16px 16px;
 }
 .content___1elKt .screen-xs .ant-card-wider-padding .ant-card-body,
 .content___1elKt .screen-xs .ant-card-body {
@@ -24422,7 +24424,7 @@ fieldset legend .anticon {
   margin: 0;
 }
 .ant-tree.ant-tree-show-line li span.ant-tree-switcher {
-  background-color: #f1f1f1 ;
+  background-color: #f1f1f1;
 }
 .ant-table-small .error {
   color: #f5222d;
@@ -24513,14 +24515,29 @@ fieldset legend .anticon {
 .layout {
   height: calc(100vh - 68px);
   overflow: hidden;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  display: -webkit-box !important;
 }
 .layout .sider {
   background: url(/water/static/sider-water.799df5c9.png) no-repeat bottom;
   background-size: 100%;
   background-color: #f1f1f1 !important;
   height: 100%;
-  border-right: 2px solid #ccc;
   width: 210px;
+  position: relative;
+}
+.layout .sider::after {
+  content: ' ';
+  width: 2px;
+  height: 100%;
+  display: block;
+  position: absolute;
+  right: 0;
+  background: #ccc;
+  top: 0;
 }
 .layout .sider .sider-title {
   font-size: 14px;
@@ -24574,6 +24591,10 @@ fieldset legend .anticon {
 }
 .layout .ant-layout-content {
   background: #ffffff;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  height: 100%;
 }
 .layout .content .content-container {
   margin: 24px 24px 0;
@@ -24827,6 +24848,10 @@ td.white-bg {
 .my-pagination .pagination {
   margin-top: 8px !important;
 }
+.sort-content .ant-tabs-top > .ant-tabs-bar {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 .ant-tabs-top > .ant-tabs-bar {
   background: #fafafa !important;
   border-bottom: solid 2px #222d32 !important;
@@ -24845,7 +24870,7 @@ td.white-bg {
   margin-right: 0 !important;
   border-radius: 0 !important;
   color: #222d32 !important;
-  line-height: 40px  !important;
+  line-height: 40px !important;
   padding: 0 16px;
 }
 .ant-tabs-top > .ant-tabs-bar .ant-tabs-nav .ant-tabs-tab-active {
@@ -24864,7 +24889,7 @@ td.white-bg {
 }
 .alarm-item {
   width: 193px;
-  padding: 10px 15px ;
+  padding: 10px 15px;
   background: #CCCCCC;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -24897,7 +24922,7 @@ td.white-bg {
   color: #eeeeee;
 }
 .alarm-item .alarm-item-value {
-  margin-bottom: 4px;
+  line-height: 1;
 }
 .alarm-item .alarm-item-value span {
   font-size: 18px;
@@ -24905,7 +24930,30 @@ td.white-bg {
   font-weight: 400;
 }
 .alarm-item button {
+  margin-top: 8px;
   margin-right: 8px;
+}
+.rst__rowWrapper {
+  padding: 8px 8px 0 0;
+}
+.sider-resize {
+  width: 210px ;
+  position: relative;
+  min-height: calc(100vh - 68px);
+  height: auto;
+  overflow-y: auto;
+  overflow-x: hidden ;
+}
+.custom-handle {
+  width: 3px;
+  height: 100%;
+  display: block;
+  position: absolute;
+  background: #ccc;
+  right: 0;
+  bottom: 0;
+  cursor: e-resize;
+  z-index: 89;
 }
 @media screen and (max-width: 992px) {
   .tableListForm___22TTk .ant-form-item {
