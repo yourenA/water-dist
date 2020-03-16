@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/water-dist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/water-dist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeviceManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdentifyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuleManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/RuleManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsergroupManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2019-11-12-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +23,8 @@
     <favorites_list name="water-dist" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
@@ -46,20 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="7832" column="13" selection-start-line="7832" selection-start-column="13" selection-end-line="7832" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret column="4022079" selection-start-column="4022079" selection-end-column="4022079" />
+            <state relative-caret-position="541">
+              <caret column="4032211" selection-start-column="4032211" selection-end-column="4032211" />
             </state>
           </provider>
         </entry>
@@ -76,6 +54,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>/static</find>
+      <find>.pageHeader___3WkSk</find>
       <find>static/</find>
     </findStrings>
     <replaceStrings>
@@ -138,15 +117,8 @@
         <option value="$PROJECT_DIR$/index2019-11-12-1.js" />
         <option value="$PROJECT_DIR$/index2019-11-12-2.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/index.css" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -170,11 +142,6 @@
               <item name="water-dist" type="b2602c69:ProjectViewProjectNode" />
               <item name="water-dist" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="water-dist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="water-dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -184,6 +151,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -192,12 +160,12 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ant-pro\y\water-dist" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ant-pro\y\water-dist" />
       <recent name="E:\ant-pro\y\water-dist\static" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ant-pro\y\water-dist" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,12 +363,13 @@
       <workItem from="1573550466387" duration="611000" />
       <workItem from="1575339130615" duration="22000" />
       <workItem from="1578018328238" duration="712000" />
-      <workItem from="1578278469475" duration="134000" />
+      <workItem from="1578278469475" duration="2024000" />
+      <workItem from="1584323772277" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148202000" />
+    <option name="totallyTimeSpent" value="150736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -489,10 +458,17 @@
     <entry file="file://$PROJECT_DIR$/index-2019-11-07.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-1.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-2.js" />
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7830" column="21" lean-forward="true" selection-start-line="7830" selection-start-column="21" selection-end-line="7830" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret column="4022079" selection-start-column="4022079" selection-end-column="4022079" />
+        <state relative-caret-position="541">
+          <caret column="4032211" selection-start-column="4032211" selection-end-column="4032211" />
         </state>
       </provider>
     </entry>
@@ -500,13 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="7832" column="13" selection-start-line="7832" selection-start-column="13" selection-end-line="7832" selection-end-column="13" />
         </state>
       </provider>
     </entry>
