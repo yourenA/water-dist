@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/OrganizationManage.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/yjsz.048ff21f.TTF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeviceManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceManage.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdentifyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RuleManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/RuleManage.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyManage.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsergroupManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <ignored path="water-dist.iws" />
@@ -23,12 +34,21 @@
     <favorites_list name="water-dist" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24553" column="31" selection-start-line="24553" selection-start-column="24" selection-end-line="24553" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="476">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -36,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret column="4032211" selection-start-column="4032211" selection-end-column="4032211" />
+            <state relative-caret-position="396">
+              <caret column="5632148" selection-start-column="5632135" selection-end-column="5632148" />
             </state>
           </provider>
         </entry>
@@ -117,8 +137,8 @@
         <option value="$PROJECT_DIR$/index2019-11-12-1.js" />
         <option value="$PROJECT_DIR$/index2019-11-12-2.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
   </component>
@@ -134,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,6 +165,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,12 +384,13 @@
       <workItem from="1575339130615" duration="22000" />
       <workItem from="1578018328238" duration="712000" />
       <workItem from="1578278469475" duration="2024000" />
-      <workItem from="1584323772277" duration="644000" />
+      <workItem from="1584323772277" duration="1183000" />
+      <workItem from="1598255156618" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150736000" />
+    <option name="totallyTimeSpent" value="151483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -458,24 +479,24 @@
     <entry file="file://$PROJECT_DIR$/index-2019-11-07.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-1.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-2.js" />
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="7830" column="21" lean-forward="true" selection-start-line="7830" selection-start-column="21" selection-end-line="7830" selection-end-column="21" />
+        <state relative-caret-position="396">
+          <caret column="5632148" selection-start-column="5632135" selection-end-column="5632148" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret column="4032211" selection-start-column="4032211" selection-end-column="4032211" />
+        <state relative-caret-position="270">
+          <caret line="24553" column="31" selection-start-line="24553" selection-start-column="24" selection-end-line="24553" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="476">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
