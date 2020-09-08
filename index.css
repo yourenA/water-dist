@@ -18946,6 +18946,36 @@ li.ant-select-tree-treenode-disabled > .ant-select-tree-node-content-wrapper:hov
 .main___2lNyy .ant-card-head-title {
   padding: 8px 0 !important;
 }
+.main___2lNyy .hyTopItem___3rnMG {
+  color: #f9f9f9 !important;
+  -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3) !important;
+          box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.3) !important;
+}
+.main___2lNyy .hyTopItem___3rnMG.topItem1___2aFL- {
+  background: #40c4ff;
+}
+.main___2lNyy .hyTopItem___3rnMG.topItem2___fEoKl {
+  background: #26a69a;
+}
+.main___2lNyy .hyTopItem___3rnMG.topItem3___3j0-o {
+  background: #63869e;
+}
+.main___2lNyy .hyTopItem___3rnMG.topItem4___1LAOr {
+  background: #ef5350;
+}
+.main___2lNyy .hyTopItem___3rnMG:after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 8px;
+  border-bottom: 1px dotted #000;
+  background: #ffffff;
+  right: -25px;
+  top: 0;
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
 .main___2lNyy .topItem___3ghLs {
   height: 100px;
   margin-bottom: 16px;
@@ -24212,7 +24242,6 @@ body {
 }
 body {
   min-width: 1000px;
-  background: #145ecb;
 }
 .btn-cyan {
   background-color: #13c2c2 !important;
@@ -24966,12 +24995,12 @@ td.white-bg {
   padding: 8px 8px 0 0;
 }
 .sider-resize {
-  width: 210px ;
+  width: 210px;
   position: relative;
   min-height: calc(100vh - 68px);
   height: auto;
   overflow-y: auto;
-  overflow-x: hidden ;
+  overflow-x: hidden;
 }
 .custom-handle {
   width: 3px;
@@ -24989,19 +25018,22 @@ td.white-bg {
   font-size: 16px;
   margin-left: 3px !important;
 }
-.homepage-content .ant-input,
-.homepage-content .ant-select-selection {
+.other-company {
+  background: #145ecb;
+}
+.other-company .homepage-content .ant-input,
+.other-company .homepage-content .ant-select-selection {
   background-color: transparent;
   color: #ffffff;
 }
-.homepage-content .ant-calendar-picker-icon {
+.other-company .homepage-content .ant-calendar-picker-icon {
   color: #fff;
 }
-.homepage-content .ant-card {
+.other-company .homepage-content .ant-card {
   background: rgba(0, 0, 0, 0.25);
   border-radius: 5px;
 }
-.homepage-content .ant-card .ant-card-head {
+.other-company .homepage-content .ant-card .ant-card-head {
   color: #24fff9;
 }
 .rst__rowWrapper {

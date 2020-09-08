@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6aaa1-81b8-45f1-99e1-49573e4889d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/OrganizationManage.async.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/yjsz.048ff21f.TTF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOrEditRule.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditRule.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/AddOrEditUsergroup.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeviceManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdentifyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/IdentifyManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuleManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/RuleManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrategyManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsergroupManage.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/UsergroupManage.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <ignored path="water-dist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="712037">
               <caret line="24553" column="31" selection-start-line="24553" selection-start-column="24" selection-end-line="24553" selection-end-column="31" />
             </state>
           </provider>
@@ -56,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="163328">
               <caret column="5632148" selection-start-column="5632135" selection-end-column="5632148" />
             </state>
           </provider>
@@ -73,13 +61,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>/static</find>
       <find>.pageHeader___3WkSk</find>
       <find>static/</find>
+      <find>water/static/</find>
+      <find>/static</find>
     </findStrings>
     <replaceStrings>
-      <replace>/water/static</replace>
       <replace>water/static/</replace>
+      <replace>/water/static</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -154,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +155,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,12 +169,12 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ant-pro\y\water-dist" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ant-pro\y\water-dist" />
       <recent name="E:\ant-pro\y\water-dist\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ant-pro\y\water-dist" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,12 +374,14 @@
       <workItem from="1578018328238" duration="712000" />
       <workItem from="1578278469475" duration="2024000" />
       <workItem from="1584323772277" duration="1183000" />
-      <workItem from="1598255156618" duration="208000" />
+      <workItem from="1598255156618" duration="807000" />
+      <workItem from="1598325507998" duration="595000" />
+      <workItem from="1598408935602" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151483000" />
+    <option name="totallyTimeSpent" value="153273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -479,17 +470,17 @@
     <entry file="file://$PROJECT_DIR$/index-2019-11-07.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-1.js" />
     <entry file="file://$PROJECT_DIR$/index2019-11-12-2.js" />
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret column="5632148" selection-start-column="5632135" selection-end-column="5632148" />
+        <state relative-caret-position="712037">
+          <caret line="24553" column="31" selection-start-line="24553" selection-start-column="24" selection-end-line="24553" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24553" column="31" selection-start-line="24553" selection-start-column="24" selection-end-line="24553" selection-end-column="31" />
+        <state relative-caret-position="163328">
+          <caret column="5632148" selection-start-column="5632135" selection-end-column="5632148" />
         </state>
       </provider>
     </entry>
