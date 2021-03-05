@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret column="643182" selection-start-column="643173" selection-end-column="643182" />
+            <state relative-caret-position="167910">
+              <caret column="5790424" selection-start-column="5790424" selection-end-column="5790424" />
             </state>
           </provider>
         </entry>
@@ -62,13 +62,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.pageHeader___3WkSk</find>
-      <find>static/</find>
       <find>water/static/</find>
       <find>/static</find>
+      <find>poweredBy</find>
+      <find>static/</find>
     </findStrings>
     <replaceStrings>
-      <replace>water/static/</replace>
       <replace>/water/static</replace>
+      <replace>water/static/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -126,8 +127,8 @@
         <option value="$PROJECT_DIR$/index2019-11-12-1.js" />
         <option value="$PROJECT_DIR$/index2019-11-12-2.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -169,12 +170,12 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ant-pro\y\water-dist" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ant-pro\y\water-dist" />
       <recent name="E:\ant-pro\y\water-dist\static" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ant-pro\y\water-dist" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,16 +379,16 @@
       <workItem from="1598325507998" duration="595000" />
       <workItem from="1598408935602" duration="596000" />
       <workItem from="1599618442953" duration="90000" />
-      <workItem from="1614592161965" duration="259000" />
+      <workItem from="1614592161965" duration="1053000" />
+      <workItem from="1614652119162" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153622000" />
+    <option name="totallyTimeSpent" value="154429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13962065" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -479,17 +480,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167910">
+          <caret column="5790424" selection-start-column="5790424" selection-end-column="5790424" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret column="643182" selection-start-column="643173" selection-end-column="643182" />
         </state>
       </provider>
     </entry>
